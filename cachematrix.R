@@ -5,6 +5,7 @@
 ## this newly cached inverse.
 
 ## This function will make the inverse of your matrix into the cache inverse.
+## And is used in the cacheSolve function to check for a cached invervse.
 
 makeCacheMatrix <- function(x = matrix()) {
         blah <- NULL
